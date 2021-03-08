@@ -1,58 +1,55 @@
 "# micro-project-intern-dev-fe" 
 
-Supermarket Admin Dashboard - Micro project (Vue & Node) Intern Developer
-This project is a supermarket network's management dashboard to help them manage their inventories
-in the stores.
+# Supermarket Admin Dashboard
+## _Micro project (Vue & Node) Intern Developer_
 
+This project is a supermarket network's management dashboard to help them manage their inventories in the stores.
 
-Getting Started
-Node.js need to installed on the local machine
-You need to have installed an IDE to open the code
-You need to have any internet browser installed on your machine
+## Getting Started
+- Node.js need to installed on the local machine
+- You need to have installed an IDE to open the code
+- You need to have any internet browser installed on your machine
 
+## Prerequisites
 
-Prerequisites
-Node.js need to installed on the local machine
-Download Nodejs: https://nodejs.org/en/
+- Node.js need to installed on the local machine
+[Download NodeJS](https://nodejs.org/en/)
+- You need to have installed an IDE to open the code
+[Download VS code](https://code.visualstudio.com/download)
+- You need to have installed VUEjs
+[Documentation for installing VUE JS](https://vuejs.org/v2/guide/installation.html)
+- I have used Vuetify for this project
+[Documentation for installing Vuetify](https://vuetifyjs.com/en/getting-started/installation/)
 
-You need to have installed an IDE to open the code
-Download VS code: https://code.visualstudio.com/download
-
-To install express js in the console
+To install express js in the console:
+```sh
 $ npm install express --save
+```
 
-You need to have installed VUEjs
-https://vuejs.org/v2/guide/installation.html - is documentation for installing VUE JS
-
-I have used Vuetify for this project
-https://vuetifyjs.com/en/getting-started/installation/ -  is documentation for installing Vuetify
-
-I have used axios for routing in VUE to install axios in the console
+I have used axios for routing in VUE, Install axios in the console:
+```sh
 $ npm install axios
+```
 
-I used vuelidate for validations for this project, to install in the console
+I used vuelidate for validations for this project, Install in the console:
+```sh
 $ npm install vuelidate --save
+```
 
+## Running the tests
+SQL database was used to get data to the application and check reading data from database and display, edit the data and send to database, delete data and create new data and store in the database with sample data that created by us.
 
-Running the tests
-SQL database was used to get data to the application and check reading data from database and display, edit the data and send to database,
-delete data and create new data and store in the database with sample data that created by us.
+## Built With
+- VUE and Vuetify -  Front end JavaScript framework for build the user interface
+- Express Js - back end web application framework for Node.js
+- Node js - Back-end JavaScript runtime environment that used for this project 
+- My SQL - Used for database
 
-
-Built With
-VUE and Vuetify -  Front end JavaScript framework for build the user interface
-Express Js - back end web application framework for Node.js
-Node js - Back-end JavaScript runtime environment that used for this project 
-My SQL - Used for database
-
-
-Versioning
+## Versioning
 We didn't use any versioning for this project.
 
+## Author
+- K.D. Ekanayaka
 
-Authors
-K.D. Ekanayaka
-
-
-License
+## License
 This project is not licensed.
