@@ -36,6 +36,17 @@ I used vuelidate for validations for this project, Install in the console:
 $ npm install vuelidate --save
 ```
 
+To start the project
+```sh
+$ cd projectFolder
+$ npm run serve
+```
+
+On the browser navigate to:
+```sh
+http://localhost:8080
+```
+
 ## Running the tests
 SQL database was used to get data to the application and check reading data from database and display, edit the data and send to database, delete data and create new data and store in the database with sample data that created by us.
 
